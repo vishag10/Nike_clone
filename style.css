@@ -857,6 +857,99 @@ li{
     background-color:rgb(174, 46, 46);
 }
 
+.session15{
+    white-space: nowrap;
+    overflow: auto;
+    scrollbar-width: 10px;
+    width: auto;
+    height: 650px;
+    background-color: white;
+    padding-left: 4%;
+}
+
+.s15scroll1{
+    
+    position: relative;
+    display: inline-block;
+    width: 450px;
+    height: 600px;
+    background-image: url("./img/nike-just-do-it\ \(23\).jpeg");
+    background-size: cover;
+    margin-left: 20px;
+}
+.s15scroll2{
+    position: relative;
+    display: inline-block;
+    width: 450px;
+    height: 600px;
+    background-image: url("./img/nike-just-do-it.png");
+    background-size: cover;
+    margin-left: 20px;
+}
+.s15scroll3{
+    position: relative;
+    display: inline-block;
+    width: 450px;
+    height: 600px;
+    background-color: blue;
+    margin-left: 20px;
+    background-image: url("/img/nike-just-do-it\ \(24\).jpeg");
+    background-size: cover;
+}
+.s15scroll4{
+    position: relative;
+    display: inline-block;
+    width: 450px;
+    height: 600px;
+    background-color: blue;
+    margin-left: 20px;
+    background-image: url("/img/nike-just-do-it\ \(25\).jpeg");
+    background-size: cover;
+}
+.s15scroll5{
+    position: relative;
+    display: inline-block;
+    width: 450px;
+    height: 600px;
+    background-color: blue;
+    margin-left: 20px;
+    margin-right: 6%;
+    background-image: url("/img/nike-just-do-it\ \(26\).jpeg");
+    background-size: cover;
+}
+.s15scroll6{
+    position: relative;
+    display: inline-block;
+    width: 450px;
+    height: 600px;
+    background-color: blue;
+    margin-left: 20px;
+    margin-right: 6%;
+    background-image: url("/img/nike-just-do-it\ \(27\).jpeg");
+    background-size: cover;
+}
+.s15link1{
+    left: 15%;
+    position: absolute;
+    bottom: 19%;
+    font-family: "Helvetica Now Text",Helvetica,Arial,sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+}
+.s15shop1{
+   
+    font-family: "Helvetica Now Text",Helvetica,Arial,sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    position: absolute;
+    right: 25px;
+    color: black;
+    top: 6px;
+    
+}
+
 
 
 
