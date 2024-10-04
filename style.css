@@ -893,7 +893,7 @@ li{
     height: 600px;
     background-color: blue;
     margin-left: 20px;
-    background-image: url("/img/nike-just-do-it\ \(24\).jpeg");
+    background-image: url("./img/nike-just-do-it\ \(24\).jpeg");
     background-size: cover;
 }
 .s15scroll4{
@@ -903,7 +903,7 @@ li{
     height: 600px;
     background-color: blue;
     margin-left: 20px;
-    background-image: url("/img/nike-just-do-it\ \(25\).jpeg");
+    background-image: url("./img/nike-just-do-it\ \(25\).jpeg");
     background-size: cover;
 }
 .s15scroll5{
@@ -913,8 +913,7 @@ li{
     height: 600px;
     background-color: blue;
     margin-left: 20px;
-    margin-right: 6%;
-    background-image: url("/img/nike-just-do-it\ \(26\).jpeg");
+    background-image: url("./img/nike-just-do-it\ \(26\).jpeg");
     background-size: cover;
 }
 .s15scroll6{
@@ -924,8 +923,8 @@ li{
     height: 600px;
     background-color: blue;
     margin-left: 20px;
-    margin-right: 6%;
-    background-image: url("/img/nike-just-do-it\ \(27\).jpeg");
+    
+    background-image: url("./img/nike-just-do-it\ \(27\).jpeg");
     background-size: cover;
 }
 .s15link1{
