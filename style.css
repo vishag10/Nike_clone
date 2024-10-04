@@ -854,7 +854,7 @@ li{
     height: 80px;
     position: relative;
     width: 100%;
-    background-color:rgb(174, 46, 46);
+    background-color:white;
 }
 
 .session15{
@@ -949,6 +949,152 @@ li{
     top: 6px;
     
 }
+.s15d1{
+    justify-content: center;
+    position: absolute;
+    left: 15%;
+    width: 110px;
+    height: 35px;
+    top: 85%;
+    border-radius: 20px;
+    background-color: white;
+    text-align: center;
+    padding-left: 20px;
+    
+    
+}
+.s15d2{
+    justify-content: center;
+    position: absolute;
+    left: 15%;
+    width: 110px;
+    height: 35px;
+    top: 85%;
+    border-radius: 20px;
+    background-color: white;
+    text-align: center;
+    padding-left: 20px;
+    
+    
+}
+.s15d3{
+    justify-content: center;
+    position: absolute;
+    left: 15%;
+    width: 110px;
+    height: 35px;
+    top: 85%;
+    border-radius: 20px;
+    background-color: white;
+    text-align: center;
+    padding-left: 28px;
+    
+    
+}
+.s15d4{
+    justify-content: center;
+    position: absolute;
+    left: 15%;
+    width: 90px;
+    height: 35px;
+    top: 85%;
+    border-radius: 20px;
+    background-color: white;
+    text-align: center;
+    padding-left: 20px;
+    
+    
+}
+.session16{
+    width: 100%;
+    background-color: white;
+    height: 500px;
+    padding-top: 4%;
+    padding-left: 15%;
+}
+.footer1{
+    display: grid;
+    background-color: white;
+    width: 70%;
+    height: 400px;
+    grid-template-areas: "grid1 grid2 grid3 grid4";
+}
+.grid1{
+    grid-area: grid1;
+    background-color: white;
+}
+.grid2{
+    grid-area: grid2;
+    background-color: white;
+}
+.grid3{
+    grid-area: grid3;
+}
+.grid4{
+    grid-area: grid4;
+}
+.s16grid h4{
+    margin-left: 40px;
+    font-family: "Helvetica Now Text",Helvetica,Arial,sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+}
+.s16grid li{
+     color: #12121266;
+     font-family: "Helvetica Now Text",Helvetica,Arial,sans-serif;
+     font-size: 15px;
+     line-height: 35px;
+     cursor: pointer;
+}
+.s16grid li:hover{
+    color: #111111;
+}
+.session17{
+       width: 100%;
+    background-color: white;
+    height: 400px;
+    padding-top: 4%;
+    padding-left: 5%;
+}
+.s17grid{
+    display: grid;
+    background-color: white;
+    width: 90%;
+    height: 400px;
+    grid-template-areas: "item1 item2 item3 item4 item5";
+    
+}
+.item1{
+    grid-area: item1;
+}
+.item2{
+    grid-area: item2;
+}
+.item3{
+    grid-area: item3;
+}
+.item4{
+    grid-area: item4;
+}
+.item5{
+    grid-area: item5;
+}
+.items h4{
+    margin-left: 40px;
+    font-family: "Helvetica Now Text",Helvetica,Arial,sans-serif;
+    font-size: 18px;
+    font-weight: 500; 
+}
+.items li{
+    color: #12121266;
+     font-family: "Helvetica Now Text",Helvetica,Arial,sans-serif;
+     font-size: 15px;
+     line-height: 35px;
+     cursor: pointer;
+}
+.items li:hover{
+    color: #111111;
+}
 
 
 
@@ -995,6 +1141,103 @@ li{
     .topnav{
         display: none;
     }
+    .body{
+        overflow-x: hidden;
+        overflow-y: hidden;
+    }
+    * {
+        box-sizing: border-box;
+    }
+    .session2link{
+    
+        font-family: "Helvetica Now Text",Helvetica,Arial,sans-serif;
+        font-size: 18px;
+        text-decoration: none;
+        background-color: black;
+        color: white;
+        height: 50px;
+        
+        
+    }
+    .s2l{
+        margin-right: 400px;
+        justify-content: center;
+       width: 150px;
+        height: 30px;
+        margin-top: 50px;
+        border-radius: 20px;
+        background-color: black;
+        padding-top: 6px;
+        margin-left: 40%;
+        cursor: pointer;
+    }
+    .s9scroll1{
+        margin-left: 2%;
+        position: relative;
+        display: inline-block;
+        width: 450px;
+        height: 600px;    
+        cursor: pointer;
+        background-color: white;
+       
+    }
+    .s9scroll10{
+        margin-left: 5%;
+        position: relative;
+        display: inline-block;
+        width: 450px;
+        height: 600px;    
+        cursor: pointer;
+        background-color: white;
+    }
+    .session7{
+        padding-top: 5px;
+        height: 90px;
+        position: relative;
+        width: 100%;
+        background-color:white;
+    }
+    .session5{
+        display: none;
+    }
+    .session13 h3{
+        font-size: 30px;
+    }
+    .session13 p{
+        font-size: 15px;
+    }
+    .s13l{
+        padding-top: 6px;
+        margin-left: 38%;
+    }
+    .session16{
+        display: none;
+    }
+    .s15d3{
+        justify-content: center;
+        position: absolute;
+        left: 12%;
+        width: 110px;
+        height: 35px;
+        top: 85%;
+        border-radius: 20px;
+        background-color: white;
+        text-align: center;
+        padding-left: 0px;
+        
+        
+    }
+    .s15shop1 {
+        font-family: "Helvetica Now Text", Helvetica, Arial, sans-serif;
+        font-size: 18px;
+        text-decoration: none;
+        position: absolute;
+        right: 15px;
+        color: black;
+        top: 6px;
+    }
+    
+   
 }
 @media (min-width: 769px){
     .searchimg{
@@ -1007,4 +1250,53 @@ li{
         display: none;
     }
 }
+@media (max-width:321px){
+    
+    .logo2{
+        display: none;
+    }
+    body{
+        width: 530px;
+    }
+    * {
+        box-sizing: border-box;
+    }
+    .session2head{
+        font-size: 30px;
+        line-height: 30px;
+    }
+    .lastlogo {
+        width: auto;
+        margin-left: 350px;
+        cursor: pointer;
+    }
+    .s13l{
+        position: absolute;
+    justify-content: center;
+    left: 20px;
+    width: 150px;
+    height: 30px;
+    margin-top: 10px;
+    border-radius: 20px;
+    background-color: black;
+    padding-top: 6px;
+    margin-left: 33%;
+    cursor: pointer;
+    }
+   .session13 p{
+    font-size: 10px;
+   }
+   .s2l{
+    margin-right: 400px;
+    justify-content: center;
+    width: 150px;
+    height: 30px;
+    margin-top: 50px;
+    border-radius: 20px;
+    background-color: black;
+    padding-top: 6px;
+    margin-left: 36%;
+    cursor: pointer;
+   }
 
+}
