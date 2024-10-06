@@ -282,7 +282,8 @@ li{
     display: inline-block;
     width: 450px;
     height: 600px;
-    background-image: url("./img/men1.jpeg");
+    background-image: url("https://static.nike.com/a/images/f_auto/dpr_1.0,cs_srgb/h_750,c_limit/a018824d-e8b3-428e-ab36-f0921a592de9/image.png");
+
     background-size: cover;
     margin-left: 20px;
 }
@@ -291,7 +292,7 @@ li{
     display: inline-block;
     width: 450px;
     height: 600px;
-    background-image: url("./img/men2.jpeg");
+    background-image: url("https://static.nike.com/a/images/f_auto/dpr_1.0,cs_srgb/h_750,c_limit/b240001c-b2e4-4b24-98ae-bc19fd982777/image.png");
     background-size: cover;
     margin-left: 20px;
 }
@@ -302,7 +303,7 @@ li{
     height: 600px;
     
     margin-left: 20px;
-    background-image: url("./img/men3.jpeg");
+    background-image: url("https://static.nike.com/a/images/f_auto/dpr_1.0,cs_srgb/h_750,c_limit/bde91125-89db-46e2-8197-07c1b30484d9/women-s-shoes-clothing-accessories.png");
     background-size: cover;
 }
 .scroll4{
@@ -312,7 +313,7 @@ li{
     height: 600px;
     
     margin-left: 20px;
-    background-image: url("./img/men4.jpeg");
+    background-image: url("https://static.nike.com/a/images/f_auto/dpr_1.0,cs_srgb/h_750,c_limit/edc9ae96-9cb2-4e42-b3ff-75968608a501/image.png");
     background-size: cover;
 }
 .scroll5{
@@ -500,7 +501,7 @@ li{
     display: inline-block;
     width: 450px;
     height: 350px;
-    background-image: url("./img/men-s-shoes-clothing-accessories\ \(4\).jpeg");
+    background-image: url("https://static.nike.com/a/images/f_auto/dpr_1.0,cs_srgb/h_600,c_limit/e14584a6-2aad-4a9e-972e-6e09c49cc982/women-s-shoes-clothing-accessories.jpg");
     background-size: cover;
     cursor: pointer;
    
@@ -511,7 +512,7 @@ li{
     display: inline-block;
     width: 450px;
     height: 350px;
-    background-image: url("./img/men-s-shoes-clothing-accessories\ \(1\).jpeg");
+    background-image: url("https://static.nike.com/a/images/f_auto/dpr_1.0,cs_srgb/h_600,c_limit/06192aa1-96f9-4f9e-bae4-d8c6f5cad72a/women-s-shoes-clothing-accessories.jpg");
     background-size: cover;
     cursor: pointer;
    
@@ -522,7 +523,7 @@ li{
     display: inline-block;
     width: 450px;
     height: 350px;
-    background-image: url("./img/men-s-shoes-clothing-accessories\ \(2\).jpeg");
+    background-image: url("https://static.nike.com/a/images/f_auto/dpr_1.0,cs_srgb/h_600,c_limit/deead86d-3420-440f-9cfb-24672e7e6c57/women-s-shoes-clothing-accessories.jpg");
     background-size: cover;
     cursor: pointer;
    
@@ -544,7 +545,7 @@ li{
     display: inline-block;
     width: 450px;
     height: 350px;
-    background-image: url("./img/men-s-shoes-clothing-accessories\ \(3\).jpeg");
+    background-image: url("https://static.nike.com/a/images/f_auto/dpr_1.0,cs_srgb/h_600,c_limit/c275e84b-367c-4a76-a49e-6c946ffb8761/women-s-shoes-clothing-accessories.jpg");
     background-size: cover;
     cursor: pointer;
    
@@ -555,7 +556,7 @@ li{
     display: inline-block;
     width: 450px;
     height: 350px;
-    background-image: url("./img/men-s-shoes-clothing-accessories\ \(7\).jpeg");
+    background-image: url("https://static.nike.com/a/images/f_auto/dpr_1.0,cs_srgb/h_600,c_limit/46c9dc53-705b-4512-92f5-35bdcd12a1e4/women-s-shoes-clothing-accessories.jpg");
     background-size: cover;
     cursor: pointer;
    
@@ -566,7 +567,7 @@ li{
     display: inline-block;
     width: 450px;
     height: 350px;
-    background-image: url("./img/men-s-shoes-clothing-accessories\ \(6\).jpeg");
+    background-image: url("https://static.nike.com/a/images/f_auto/dpr_1.0,cs_srgb/h_600,c_limit/436eeb58-646f-47ee-a95c-8e9a12d234db/women-s-shoes-clothing-accessories.jpg");
     background-size: cover;
     cursor: pointer;
    
@@ -577,7 +578,7 @@ li{
     display: inline-block;
     width: 450px;
     height: 350px;
-    background-image: url("./img/men-s-shoes-clothing-accessories\ \(5\).jpeg");
+    background-image: url("https://static.nike.com/a/images/f_auto/dpr_1.0,cs_srgb/h_600,c_limit/b610becb-0081-431f-87e1-d7a630ea7c6a/women-s-shoes-clothing-accessories.jpg");
     background-size: cover;
     cursor: pointer;
    
@@ -739,14 +740,14 @@ li{
     position: absolute;
     width: 100%;
     height: 80%;
-    background-image: url("./img/men12.jpeg");
+    background-image: url("https://static.nike.com/a/images/f_auto/dpr_1.0,cs_srgb/w_600,c_limit/8f1f12aa-a0d0-4e23-8937-d7dab6c2f5ac/women-s-shoes-clothing-accessories.png");
     background-size: cover;
 }
 .s9img9{
     position: absolute;
     width: 100%;
     height: 80%;
-    background-image: url("./img/men13.jpeg");
+    background-image: url("https://static.nike.com/a/images/f_auto/dpr_1.0,cs_srgb/w_600,c_limit/1393eb2b-f3d5-462e-ad21-6b17679e2d90/women-s-shoes-clothing-accessories.png");
     background-size: cover;
 }
 .s9img10{
@@ -873,7 +874,7 @@ li{
     display: inline-block;
     width: 600px;
     height: 600px;
-    background-image: url("./img/men-s-shoes-clothing-accessories.png");
+    background-image: url("https://static.nike.com/a/images/f_auto/dpr_1.0,cs_srgb/h_750,c_limit/f3f509f9-e5dc-46cc-8f87-84d25cc13c7a/women-s-shoes-clothing-accessories.png");
     background-size: cover;
     margin-left: 20px;
 }
@@ -882,7 +883,7 @@ li{
     display: inline-block;
     width: 600px;
     height: 600px;
-    background-image: url("./img/men-s-shoes-clothing-accessories\ \(3\).png");
+    background-image: url("https://static.nike.com/a/images/f_auto/dpr_1.0,cs_srgb/h_750,c_limit/89021132-4393-4909-ad71-983acfdaa11c/women-s-shoes-clothing-accessories.png");
     background-size: cover;
     margin-left: 20px;
 }
@@ -893,7 +894,7 @@ li{
     height: 600px;
    
     margin-left: 20px;
-    background-image: url("./img/men-s-shoes-clothing-accessories\ \(4\).png");
+    background-image: url("https://static.nike.com/a/images/f_auto/dpr_1.0,cs_srgb/h_750,c_limit/79697170-6b93-41f1-bc82-32812fdf9264/women-s-shoes-clothing-accessories.png");
     background-size: cover;
 }
 .s15scroll4{
@@ -903,7 +904,7 @@ li{
     height: 600px;
     
     margin-left: 20px;
-    background-image: url("./img/men-s-shoes-clothing-accessories\ \(5\).png");
+    background-image: url("https://static.nike.com/a/images/f_auto/dpr_1.0,cs_srgb/h_750,c_limit/9898af86-d036-482c-8510-41ae380fdfa8/women-s-shoes-clothing-accessories.png");
     background-size: cover;
 }
 .s15scroll5{
@@ -913,7 +914,7 @@ li{
     height: 600px;
     
     margin-left: 20px;
-    background-image: url("./img/men-s-shoes-clothing-accessories\ \(2\).png");
+    background-image: url("https://static.nike.com/a/images/f_auto/dpr_1.0,cs_srgb/h_750,c_limit/2d8b8626-cacf-46dc-ab2c-dc04434fa3bb/women-s-shoes-clothing-accessories.png");
     background-size: cover;
 }
 .s15scroll6{
@@ -924,7 +925,7 @@ li{
     
     margin-left: 20px;
     
-    background-image: url("./img/men-s-shoes-clothing-accessories\ \(1\).png");
+    background-image: url("https://static.nike.com/a/images/f_auto/dpr_1.0,cs_srgb/h_750,c_limit/9f645006-8679-4502-a47d-88862bc30db7/women-s-shoes-clothing-accessories.png");
     background-size: cover;
 }
 .s15link1{
